@@ -1,0 +1,40 @@
+:root {
+  --ink: #17221e;
+  --ink-soft: #3e4b46;
+  --muted: #66716c;
+  --canvas: #f3f0e8;
+  --paper: #fbfaf6;
+  --white: #fff;
+  --night: #112a24;
+  --night-soft: #1a3a32;
+  --green: #116b53;
+  --green-dark: #07513f;
+  --sage: #a9c5b5;
+  --mint: #dcece3;
+  --sand: #e8dfd0;
+  --amber: #d28a4a;
+  --iris: #7469a9;
+  --line: rgb(23 34 30 / 12%);
+  --line-light: rgb(255 255 255 / 16%);
+  --focus: #aa5c1e;
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 26px;
+  --radius-xl: 40px;
+  --shadow-sm: 0 12px 35px rgb(17 42 36 / 9%);
+  --shadow-md: 0 24px 70px rgb(17 42 36 / 14%);
+  --shadow-lg: 0 42px 100px rgb(17 42 36 / 20%);
+  --content-width: 1280px;
+  --display: "Iowan Old Style", "Palatino Linotype", Baskerville, Georgia, serif;
+  --sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --noise-texture: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.055'/%3E%3C/svg%3E");
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-lume: var(--green);
+  --color-mint: var(--mint);
+  --color-iris: var(--iris);
+}
