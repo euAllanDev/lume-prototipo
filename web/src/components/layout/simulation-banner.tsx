@@ -1,7 +1,7 @@
 export function SimulationBanner() {
   return (
     <div className="simulation-banner">
-      <strong>Demonstração visual</strong> · sem dados, autenticação ou operações reais
+      <strong>Versão de demonstração</strong> · contas reais, ofertas e perfis fictícios
     </div>
   );
 }

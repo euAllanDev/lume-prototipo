@@ -112,7 +112,7 @@ expect(
   "Enter no skip link transfere foco real para main",
 );
 expect(
-  await evaluate(`document.body.innerText.includes("sem dados, autenticação ou operações reais")`),
+  await evaluate(`document.body.innerText.includes("contas reais, ofertas e perfis fictícios")`),
   "limite demonstrativo permanece visível",
 );
 expect(
