@@ -1,0 +1,542 @@
+[
+  {
+    "name": "home",
+    "width": 1440,
+    "height": 900,
+    "url": "/",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 6,
+    "resources": {
+      "other": 32875,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 1440,
+    "height": 900,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 3,
+    "resources": {
+      "other": 31379,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 1440,
+    "height": 900,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 9,
+    "resources": {
+      "other": 33322,
+      "js": 0,
+      "images": 80472
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 1440,
+    "height": 900,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 35680,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 1440,
+    "height": 900,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 0,
+    "resources": {
+      "other": 37803,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 1440,
+    "height": 900,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 1440,
+    "height": 900,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 1,
+    "resources": {
+      "other": 25532,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 1440,
+    "height": 900,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 1024,
+    "height": 768,
+    "url": "/",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 6,
+    "resources": {
+      "other": 32875,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 1024,
+    "height": 768,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 3,
+    "resources": {
+      "other": 31378,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 1024,
+    "height": 768,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 9,
+    "resources": {
+      "other": 33323,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 1024,
+    "height": 768,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 35685,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 1024,
+    "height": 768,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 0,
+    "resources": {
+      "other": 37803,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 1024,
+    "height": 768,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 1024,
+    "height": 768,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 1,
+    "resources": {
+      "other": 25528,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 1024,
+    "height": 768,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 768,
+    "height": 1024,
+    "url": "/",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 6,
+    "resources": {
+      "other": 21170,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 768,
+    "height": 1024,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 3,
+    "resources": {
+      "other": 19300,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 768,
+    "height": 1024,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 19088,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 768,
+    "height": 1024,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 18337,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 768,
+    "height": 1024,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 0,
+    "resources": {
+      "other": 37803,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 768,
+    "height": 1024,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 768,
+    "height": 1024,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 1,
+    "resources": {
+      "other": 13343,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 768,
+    "height": 1024,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 390,
+    "height": 844,
+    "url": "/",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 6,
+    "resources": {
+      "other": 13674,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 390,
+    "height": 844,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 3,
+    "resources": {
+      "other": 11353,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 390,
+    "height": 844,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 10556,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 390,
+    "height": 844,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 11353,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 390,
+    "height": 844,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 0,
+    "resources": {
+      "other": 11353,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 390,
+    "height": 844,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 390,
+    "height": 844,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 1,
+    "resources": {
+      "other": 6357,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 390,
+    "height": 844,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 11609,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 320,
+    "height": 700,
+    "url": "/",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 6,
+    "resources": {
+      "other": 13674,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 320,
+    "height": 700,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 3,
+    "resources": {
+      "other": 11353,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 320,
+    "height": 700,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 10556,
+      "js": 0,
+      "images": 24710
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 320,
+    "height": 700,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 2,
+    "resources": {
+      "other": 11353,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 320,
+    "height": 700,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 0,
+    "resources": {
+      "other": 11353,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 320,
+    "height": 700,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 9137,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 320,
+    "height": 700,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 1,
+    "resources": {
+      "other": 6357,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 320,
+    "height": 700,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [],
+    "shadows": 4,
+    "resources": {
+      "other": 9137,
+      "js": 0
+    }
+  }
+]

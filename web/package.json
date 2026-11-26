@@ -1,0 +1,53 @@
+{
+  "name": "lume-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run lint && npm run build",
+    "test:db": "node --import tsx --test tests/database-env.test.ts",
+    "test:auth": "node --import tsx --test tests/auth-contract.test.ts tests/auth-integration.test.ts tests/profiles-contract.test.ts",
+    "test:profiles": "node --import tsx --test tests/profiles-contract.test.ts tests/account-ui.test.tsx tests/auth-integration.test.ts",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx scripts/migrate.ts",
+    "db:check": "tsx scripts/check-database.ts",
+    "audit": "node tests/audit-foundation.mjs",
+    "audit:viewport": "node tests/viewport-audit.mjs",
+    "audit:auth": "node tests/audit-auth.mjs",
+    "audit:marketplace": "node tests/audit-marketplace.mjs"
+  },
+  "dependencies": {
+    "@better-auth/drizzle-adapter": "1.7.18",
+    "@gsap/react": "^2.1.2",
+    "better-auth": "1.7.18",
+    "drizzle-orm": "0.45.4",
+    "gsap": "^3.15.0",
+    "lucide-react": "^1.64.0",
+    "motion": "^14.8.0",
+    "next": "16.4.3",
+    "nodemailer": "10.4.0",
+    "pg": "8.23.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "resend": "6.37.0",
+    "server-only": "0.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/nodemailer": "7.0.7",
+    "@types/pg": "8.23.1",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "drizzle-kit": "0.31.4",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4",
+    "tsx": "4.21.0",
+    "typescript": "^5"
+  }
+}

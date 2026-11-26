@@ -1,0 +1,292 @@
+{
+ "page": "http://127.0.0.1:3010/",
+ "partial": false,
+ "results": [
+  {
+   "w": 1440,
+   "rows": [
+    {
+     "name": "host CPU load (before/after)",
+     "value": "27/21 %",
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "total transfer",
+     "value": "497 KiB",
+     "verdict": "PASS",
+     "note": "html 11.1K  css 14.9K  js 217.5K  img 208K  other 45.5K"
+    },
+    {
+     "name": "requests",
+     "value": 47,
+     "verdict": "PASS",
+     "note": "45 by load"
+    },
+    {
+     "name": "images bytes",
+     "value": "208 KiB",
+     "verdict": "PASS",
+     "note": "9 files"
+    },
+    {
+     "name": "largest image",
+     "value": "49.3 KiB",
+     "verdict": "PASS",
+     "note": "_next/image?url=%2Fimages%2Fweb-design.jpg&w=750&q=75"
+    },
+    {
+     "name": "JS parsed",
+     "value": "673.7 KiB",
+     "verdict": "WARN",
+     "note": "14 files, 217.5K gz"
+    },
+    {
+     "name": "CSS",
+     "value": "14.9 KiB",
+     "verdict": "PASS",
+     "note": "1 files"
+    },
+    {
+     "name": "font families",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "font files",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0K"
+    },
+    {
+     "name": "images without width+height",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "below-fold images not lazy",
+     "value": 1,
+     "verdict": "WARN",
+     "note": "image?url=%2Fimages%2Flogo.png&w=128&q=75"
+    },
+    {
+     "name": "oversized images (natural > 2.2x shown)",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at load",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at bottom",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL peak live",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0 contexts made in all"
+    },
+    {
+     "name": "long tasks",
+     "value": 1,
+     "verdict": "PASS",
+     "note": "runs 3, 0..1, max 81ms"
+    },
+    {
+     "name": "blocking time",
+     "value": "24 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 0..31 ms; at load 24ms"
+    },
+    {
+     "name": "FCP (CPU, relative)",
+     "value": "160 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 136..164"
+    },
+    {
+     "name": "LCP (CPU, relative)",
+     "value": "160 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 136..164, h1"
+    },
+    {
+     "name": "layout shift",
+     "value": "0.000",
+     "verdict": "PASS",
+     "note": "runs 3, 0.000..0.000; at load 0.000"
+    },
+    {
+     "name": "modules loaded, never mounted",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "broken requests",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "page height",
+     "value": "5.6 screens",
+     "verdict": "PASS",
+     "note": "DOM 428 nodes"
+    }
+   ]
+  },
+  {
+   "w": 390,
+   "rows": [
+    {
+     "name": "host CPU load (before/after)",
+     "value": "27/21 %",
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "total transfer",
+     "value": "419 KiB",
+     "verdict": "PASS",
+     "note": "html 11.1K  css 14.9K  js 200.2K  img 155.4K  other 37.4K"
+    },
+    {
+     "name": "requests",
+     "value": 36,
+     "verdict": "PASS",
+     "note": "24 by load"
+    },
+    {
+     "name": "images bytes",
+     "value": "155.4 KiB",
+     "verdict": "PASS",
+     "note": "8 files"
+    },
+    {
+     "name": "largest image",
+     "value": "48 KiB",
+     "verdict": "PASS",
+     "note": "_next/image?url=%2Fimages%2Fhome-repair.jpg&w=640&q=75"
+    },
+    {
+     "name": "JS parsed",
+     "value": "629.1 KiB",
+     "verdict": "WARN",
+     "note": "11 files, 200.2K gz"
+    },
+    {
+     "name": "CSS",
+     "value": "14.9 KiB",
+     "verdict": "PASS",
+     "note": "1 files"
+    },
+    {
+     "name": "font families",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "font files",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0K"
+    },
+    {
+     "name": "images without width+height",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "below-fold images not lazy",
+     "value": 2,
+     "verdict": "WARN",
+     "note": "image?url=%2Fimages%2Flogo.png&w=128&q=75, image?url=%2Fimages%2Fhome-repair.jpg&w=384&q=75"
+    },
+    {
+     "name": "oversized images (natural > 2.2x shown)",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at load",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at bottom",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL peak live",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0 contexts made in all"
+    },
+    {
+     "name": "long tasks",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "runs 3, 0..0, max 0ms"
+    },
+    {
+     "name": "blocking time",
+     "value": "0 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 0..0 ms; at load 0ms"
+    },
+    {
+     "name": "FCP (CPU, relative)",
+     "value": "120 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 100..120"
+    },
+    {
+     "name": "LCP (CPU, relative)",
+     "value": "120 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 100..120, h1"
+    },
+    {
+     "name": "layout shift",
+     "value": "0.000",
+     "verdict": "PASS",
+     "note": "runs 3, 0.000..0.000; at load 0.000"
+    },
+    {
+     "name": "modules loaded, never mounted",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "broken requests",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "page height",
+     "value": "9.4 screens",
+     "verdict": "PASS",
+     "note": "DOM 425 nodes"
+    }
+   ]
+  }
+ ]
+}

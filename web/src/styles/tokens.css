@@ -1,0 +1,226 @@
+:root {
+  /* ── 1. Paleta de referência ─────────────────────────────── */
+  /* Navy principal (#111B40) e escala institucional */
+  --navy-950: #070B1A;
+  --navy-900: #0B1229;
+  --navy-800: #111B40; /* Navy principal */
+  --navy-700: #1C274E;
+  --navy-600: #27345D; /* Navy secundário */
+  --navy-500: #3E4E7A;
+  --navy-400: #5C6D9E;
+  --navy-300: #8594BE;
+  --navy-200: #AAB3CA; /* Azul acinzentado */
+  --navy-100: #D6DAE6;
+  --navy-50:  #ECEEF4;
+
+  /* Rosa principal (#EC2184) e escala de ação/destaque */
+  --rosa-800: #8C0D4B;
+  --rosa-700: #A8125B;
+  --rosa-600: #C91A6E; /* Ação primária com texto branco */
+  --rosa-500: #EC2184; /* Rosa vibrante principal */
+  --rosa-400: #F24D9D;
+  --rosa-300: #F78FBF; /* Destaques sobre fundos escuros */
+  --rosa-200: #FBC5DE;
+  --rosa-100: #FDE8F1;
+  --rosa-50:  #FFF5F9;
+
+  /* Neutros e Branco */
+  --white:    #FFFFFF;
+  --gray-50:  #F6F7FA;
+  --gray-100: #ECEEF4;
+  --gray-200: #D6DAE4;
+  --gray-300: #AAB3CA;
+  --gray-400: #7B87A3;
+  --gray-500: #5B6785;
+  --gray-600: #3E4B66;
+
+  /* ── 2. Tokens Semânticos ────────────────────────────────── */
+  /* Backgrounds */
+  --bg-primary: #F4F3F7;
+  --bg-secondary: var(--navy-50);
+  --bg-inverse: var(--navy-800);
+  --canvas: var(--bg-primary);
+
+  /* Superfícies */
+  --surface: var(--white);
+  --surface-elevated: var(--surface);
+  --surface-soft: var(--navy-50);
+  --surface-action-soft: var(--rosa-50);
+  --paper: #FAF9FB;
+
+  /* Tipografia / Textos */
+  --text-primary: var(--navy-800);        /* #111B40 - Contraste 13.5:1 sobre branco (AAA) */
+  --text-secondary: var(--navy-600);      /* #27345D - Contraste 8.7:1 sobre branco (AAA) */
+  --text-muted: var(--gray-500);          /* #5B6785 - Contraste 5.2:1 sobre branco (AA) */
+  --text-on-dark: #FFFFFF;                /* Contraste 15.6:1 sobre #111B40 (AAA) */
+  --text-on-dark-secondary: var(--navy-200); /* #AAB3CA - Contraste 6.4:1 sobre #111B40 (AA) */
+  --text-on-dark-muted: rgb(255 255 255 / 68%);
+
+  --ink: var(--text-primary);
+  --ink-soft: var(--text-secondary);
+  --muted: var(--text-muted);
+
+  /* Cores institucionais (Azul-marinho profundo) */
+  --color-institutional: var(--navy-800);
+  --color-institutional-secondary: var(--navy-600);
+  --brand: var(--color-institutional);
+  --brand-light: var(--color-institutional-secondary);
+  --night: var(--navy-800);
+  --night-soft: var(--navy-700);
+  --night-deep: var(--navy-900);
+
+  /* Cores de ação (Rosa vibrante) */
+  --color-action: var(--rosa-500);
+  /* Rosa 500 preserva destaque; 600 sustenta controles com texto branco em AA. */
+  --color-action-strong: var(--rosa-600);
+  --color-action-hover: var(--rosa-700);
+  --color-action-active: var(--rosa-800);
+  --color-action-soft: var(--rosa-50);
+  --accent: var(--color-action-strong);
+  --accent-hover: var(--color-action-hover);
+  --accent-active: var(--color-action-active);
+  --accent-soft: var(--rosa-100);
+
+  /* Bordas e divisores */
+  --border: rgb(17 27 64 / 12%);
+  --border-strong: rgb(17 27 64 / 24%);
+  --border-control: var(--gray-400);
+  --border-light: rgb(255 255 255 / 20%);
+  --line: var(--border);
+  --line-strong: var(--border-strong);
+  --line-light: var(--border-light);
+
+  /* Estados interativos e foco */
+  --focus: var(--rosa-600);
+  --focus-ring: 0 0 0 3px rgb(201 26 110 / 28%);
+  --focus-ring-subtle: 0 0 0 3px rgb(201 26 110 / 18%);
+
+  /* Estados de feedback / Sistema */
+  --success: #087B5C;
+  --success-soft: #E4F5EF;
+  --warning: #8B4B06;
+  --warning-soft: #FFF3E2;
+  --danger: #AD293F;
+  --danger-soft: #FCEBEF;
+  --info: var(--navy-600);
+  --info-soft: var(--navy-50);
+
+  /* Camadas translúcidas mantêm contraste em fundos institucionais. */
+  --overlay-dark-soft: rgb(11 18 41 / 8%);
+  --overlay-dark-strong: rgb(11 18 41 / 88%);
+  --overlay-light-subtle: rgb(255 255 255 / 18%);
+  --overlay-light: rgb(255 255 255 / 68%);
+  --overlay-action: rgb(201 26 110 / 22%);
+
+  /* Compatibilidade retroativa */
+  --blue-700: var(--navy-800);
+  --blue-600: var(--navy-600);
+  --blue-500: var(--navy-500);
+  --blue-300: var(--navy-200);
+  --blue-100: var(--navy-50);
+  --blue-50:  var(--gray-50);
+  --green: var(--navy-800);
+  --green-dark: var(--navy-900);
+  --sage: var(--navy-50);
+  --mint: var(--navy-50);
+  --sand: var(--gray-100);
+  --amber: #A85B08;
+  --iris: var(--navy-500);
+
+  /* ── 3. Dimensões, Espaçamento e Geometria ────────────────── */
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+  --radius-2xl: var(--radius-xl); /* Existing panel API; no fourth shape family. */
+  --radius-round: 999px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+  --space-28: 112px;
+  --space-36: 144px;
+
+  --content-width: 1280px;
+  --content-width-reading: 760px;
+  --page-gutter: 32px;
+  --grid-columns: 12;
+  --grid-gap: var(--space-6);
+  --section-space: clamp(80px, 8vw, 144px);
+  --control-height: 48px;
+  --target-size: 44px;
+  --sticky-clearance: 96px;
+  --layer-header: 20;
+  --layer-disclosure: 30;
+  --layer-skip: 100;
+
+  /* ── 4. Elevação e Sombras ───────────────────────────────── */
+  --shadow-xs: 0 2px 6px rgb(17 27 64 / 5%);
+  --shadow-sm: 0 8px 24px rgb(17 27 64 / 7%);
+  --shadow-md: 0 16px 36px rgb(17 27 64 / 9%);
+  --shadow-lg: 0 24px 56px rgb(17 27 64 / 13%);
+  --highlight-inner: inset 0 1px 0 rgb(255 255 255 / 60%);
+  --shadow-inset: inset 0 2px 4px rgb(17 27 64 / 4%);
+  --shadow-action: 0 3px 8px rgb(17 27 64 / 12%), inset 0 1px rgb(255 255 255 / 24%);
+  --shadow-action-hover: 0 5px 12px rgb(17 27 64 / 13%), inset 0 1px rgb(255 255 255 / 28%);
+  --shadow-inverse: var(--shadow-action);
+  --shadow-pressed: inset 0 2px 4px rgb(17 27 64 / 13%);
+
+  /* ── 5. Animações e Transições ───────────────────────────── */
+  --ease-out: cubic-bezier(.2, .7, .2, 1);
+  --duration-feedback: 120ms;
+  --duration-state: 200ms;
+  --duration-media: 400ms;
+  --transition-fast: var(--duration-feedback) var(--ease-out);
+  --transition-base: var(--duration-state) var(--ease-out);
+  --transition-slow: var(--duration-media) var(--ease-out);
+
+  /* ── 6. Tipografia ───────────────────────────────────────── */
+  --display: Iowan Old Style, Baskerville, Georgia, ui-serif, serif;
+  --sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --text-label: .8125rem;
+  --text-small: .875rem;
+  --text-body: 1rem;
+  --text-lead: clamp(1.0625rem, 1.5vw, 1.25rem);
+  --text-heading: clamp(1.5rem, 2vw, 2rem);
+  --text-section: clamp(2.25rem, 4vw, 4rem);
+  --text-display: clamp(3rem, 6vw, 6rem);
+  --weight-display: 400;
+  --weight-body: 400;
+  --weight-label: 600;
+  --weight-strong: 700;
+  --leading-display: 1.04;
+  --leading-heading: 1.15;
+  --leading-body: 1.6;
+  --leading-label: 1.4;
+  --tracking-display: -.035em;
+  --tracking-label: .04em;
+}
+
+/* CSS custom properties cannot drive media queries. These are the canonical
+   composition thresholds: 1100 (dense grids), 1023 (filter sheet), 900 (split),
+   700 (single column), 390 (compact metadata). Keep route rules aligned. */
+@media (max-width: 900px) {
+  :root { --grid-columns: 8; }
+}
+@media (max-width: 700px) {
+  :root { --page-gutter: 16px; --grid-columns: 4; --grid-gap: var(--space-3); --section-space: var(--space-16); --sticky-clearance: 80px; }
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-lume: var(--navy-800);
+  --color-brand: var(--color-institutional);
+  --color-mint: var(--navy-50);
+  --color-iris: var(--iris);
+}

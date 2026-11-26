@@ -1,0 +1,8394 @@
+[
+  {
+    "name": "home",
+    "width": 1440,
+    "height": 900,
+    "url": "/",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "demo-status",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-dark",
+        "size": "12.8px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "button button-light",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary button-large",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 30,
+    "resources": {
+      "other": 89720,
+      "js": 220737,
+      "images": 98202
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 1440,
+    "height": 900,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "demo-status",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 24,
+    "resources": {
+      "other": 31314,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 1440,
+    "height": 900,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "demo-status",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LEGEND",
+        "size": "11.2px"
+      },
+      {
+        "selector": "filter-option active",
+        "size": "10.4px"
+      },
+      {
+        "selector": "filter-option",
+        "size": "10.4px"
+      },
+      {
+        "selector": "filter-option",
+        "size": "10.4px"
+      },
+      {
+        "selector": "filter-option",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LEGEND",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 58,
+    "resources": {
+      "other": 34296,
+      "js": 0,
+      "images": 213550
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 1440,
+    "height": 900,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "demo-status",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "11.52px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "11.52px"
+      },
+      {
+        "selector": "detail-label",
+        "size": "10.72px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-secondary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "sidebar-note",
+        "size": "10.24px"
+      },
+      {
+        "selector": "provider-avatar provider-avatar-large",
+        "size": "10.56px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.08px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.08px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 10,
+    "resources": {
+      "other": 122884,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 1440,
+    "height": 900,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "demo-status",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.2px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.6px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "P",
+        "size": "11.36px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 9,
+    "resources": {
+      "other": 37756,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 1440,
+    "height": 900,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 1440,
+    "height": 900,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "demo-status",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "12.48px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.48px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 3,
+    "resources": {
+      "other": 75853,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 1440,
+    "height": 900,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 1024,
+    "height": 768,
+    "url": "/",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-dark",
+        "size": "12.8px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "button button-light",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary button-large",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 30,
+    "resources": {
+      "other": 32874,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 1024,
+    "height": 768,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 24,
+    "resources": {
+      "other": 31313,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 1024,
+    "height": 768,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LEGEND",
+        "size": "11.2px"
+      },
+      {
+        "selector": "filter-option active",
+        "size": "10.4px"
+      },
+      {
+        "selector": "filter-option",
+        "size": "10.4px"
+      },
+      {
+        "selector": "filter-option",
+        "size": "10.4px"
+      },
+      {
+        "selector": "filter-option",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LEGEND",
+        "size": "11.2px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "11.2px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 58,
+    "resources": {
+      "other": 33269,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 1024,
+    "height": 768,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "11.52px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "11.52px"
+      },
+      {
+        "selector": "detail-label",
+        "size": "10.72px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-secondary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "sidebar-note",
+        "size": "10.24px"
+      },
+      {
+        "selector": "provider-avatar provider-avatar-large",
+        "size": "10.56px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.08px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.08px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 10,
+    "resources": {
+      "other": 35641,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 1024,
+    "height": 768,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.2px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.6px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "P",
+        "size": "11.36px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 9,
+    "resources": {
+      "other": 37753,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 1024,
+    "height": 768,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 1024,
+    "height": 768,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "A",
+        "size": "12.48px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "12.48px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.48px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 3,
+    "resources": {
+      "other": 25470,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 1024,
+    "height": 768,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 768,
+    "height": 1024,
+    "url": "/",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-dark",
+        "size": "12.8px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "button button-light",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary button-large",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 30,
+    "resources": {
+      "other": 21156,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 768,
+    "height": 1024,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 24,
+    "resources": {
+      "other": 19718,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 768,
+    "height": 1024,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-secondary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 50,
+    "resources": {
+      "other": 20962,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 768,
+    "height": 1024,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "11.52px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "11.52px"
+      },
+      {
+        "selector": "detail-label",
+        "size": "10.72px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-secondary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "sidebar-note",
+        "size": "10.24px"
+      },
+      {
+        "selector": "provider-avatar provider-avatar-large",
+        "size": "10.56px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.08px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.08px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 10,
+    "resources": {
+      "other": 76644,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 768,
+    "height": 1024,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.2px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.6px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "P",
+        "size": "11.36px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 9,
+    "resources": {
+      "other": 37756,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 768,
+    "height": 1024,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 768,
+    "height": 1024,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "10.88px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-login",
+        "size": "12px"
+      },
+      {
+        "selector": "header-cta",
+        "size": "12px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "12.48px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.48px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 3,
+    "resources": {
+      "other": 13262,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 768,
+    "height": 1024,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 390,
+    "height": 844,
+    "url": "/",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-dark",
+        "size": "12.8px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "button button-light",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary button-large",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 30,
+    "resources": {
+      "other": 14206,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 390,
+    "height": 844,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 24,
+    "resources": {
+      "other": 11801,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 390,
+    "height": 844,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-secondary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 50,
+    "resources": {
+      "other": 10517,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 390,
+    "height": 844,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "11.52px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "11.52px"
+      },
+      {
+        "selector": "detail-label",
+        "size": "10.72px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-secondary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "sidebar-note",
+        "size": "10.24px"
+      },
+      {
+        "selector": "provider-avatar provider-avatar-large",
+        "size": "10.56px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.08px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.08px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 10,
+    "resources": {
+      "other": 11317,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 390,
+    "height": 844,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.2px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.6px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "P",
+        "size": "11.36px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 9,
+    "resources": {
+      "other": 26603,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 390,
+    "height": 844,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 390,
+    "height": 844,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "12.48px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.48px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 3,
+    "resources": {
+      "other": 6313,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 390,
+    "height": 844,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "home",
+    "width": 320,
+    "height": 700,
+    "url": "/",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-dark",
+        "size": "12.8px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "hero-card-type",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "8.32px"
+      },
+      {
+        "selector": "B",
+        "size": "11.52px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "LI",
+        "size": "12.32px"
+      },
+      {
+        "selector": "button button-light",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary button-large",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 30,
+    "resources": {
+      "other": 14206,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "explorar",
+    "width": 320,
+    "height": 700,
+    "url": "/explorar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "category-number",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "P",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 24,
+    "resources": {
+      "other": 11317,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "catalogo",
+    "width": 320,
+    "height": 700,
+    "url": "/ofertas",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "button button-secondary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "LABEL",
+        "size": "10.88px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 50,
+    "resources": {
+      "other": 10517,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "detalhe",
+    "width": 320,
+    "height": 700,
+    "url": "/ofertas/websites-para-negocios",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "11.52px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "11.52px"
+      },
+      {
+        "selector": "detail-label",
+        "size": "10.72px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.76px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "button button-secondary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "sidebar-note",
+        "size": "10.24px"
+      },
+      {
+        "selector": "provider-avatar provider-avatar-large",
+        "size": "10.56px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.08px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.08px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 10,
+    "resources": {
+      "other": 11317,
+      "js": 0,
+      "images": 0
+    }
+  },
+  {
+    "name": "perfil",
+    "width": 320,
+    "height": 700,
+    "url": "/prestadores/miguel-ferreira",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "back-link",
+        "size": "11.68px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.88px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.2px"
+      },
+      {
+        "selector": "SMALL",
+        "size": "9.6px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "P",
+        "size": "11.36px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "offer-mode",
+        "size": "9.76px"
+      },
+      {
+        "selector": "provider-avatar",
+        "size": "8.8px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.72px"
+      },
+      {
+        "selector": "rating",
+        "size": "10.72px"
+      },
+      {
+        "selector": "P",
+        "size": "12.16px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.24px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.16px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 9,
+    "resources": {
+      "other": 19691,
+      "js": 0
+    }
+  },
+  {
+    "name": "entrar",
+    "width": 320,
+    "height": 700,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  },
+  {
+    "name": "institucional",
+    "width": 320,
+    "height": 700,
+    "url": "/como-funciona",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "simulation-banner",
+        "size": "8.96px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "10.56px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "10.4px"
+      },
+      {
+        "selector": "P",
+        "size": "12px"
+      },
+      {
+        "selector": "text-link text-link-light",
+        "size": "12.48px"
+      },
+      {
+        "selector": "P",
+        "size": "12.48px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "12.48px"
+      },
+      {
+        "selector": "button button-primary",
+        "size": "12.8px"
+      },
+      {
+        "selector": "footer-demo",
+        "size": "9.92px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "STRONG",
+        "size": "10.72px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "9.76px"
+      }
+    ],
+    "shadows": 3,
+    "resources": {
+      "other": 6313,
+      "js": 0
+    }
+  },
+  {
+    "name": "conta",
+    "width": 320,
+    "height": 700,
+    "url": "/entrar",
+    "overflow": false,
+    "smallText": [
+      {
+        "selector": "auth-public-link",
+        "size": "12.16px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "eyebrow",
+        "size": "10.4px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.84px"
+      },
+      {
+        "selector": "B",
+        "size": "11.84px"
+      },
+      {
+        "selector": "SPAN",
+        "size": "11.04px"
+      },
+      {
+        "selector": "A",
+        "size": "11.2px"
+      },
+      {
+        "selector": "button button-primary button-wide",
+        "size": "12.8px"
+      },
+      {
+        "selector": "auth-switch",
+        "size": "11.68px"
+      },
+      {
+        "selector": "A",
+        "size": "11.68px"
+      }
+    ],
+    "shadows": 5,
+    "resources": {
+      "other": 11531,
+      "js": 0
+    }
+  }
+]
