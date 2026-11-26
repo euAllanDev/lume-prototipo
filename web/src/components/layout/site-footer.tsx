@@ -16,7 +16,7 @@ export function SiteFooter() {
         <div className="footer-links"><strong>Escolher um caminho</strong><Link href="/para-clientes">Para clientes</Link><Link href="/para-prestadores">Para prestadores</Link><Link href="/explorar">Explorar ofertas</Link></div>
         <div className="footer-manifesto"><p>Talento local.<br /><em>Impacto próximo.</em></p><Link href="/explorar" aria-label="Explorar serviços"><ArrowUpRight aria-hidden="true" size={22} /></Link></div>
       </div>
-      <div className="shell footer-bottom"><span>© 2026 Lume · Protótipo para Portugal</span><span>Dados, perfis e avaliações fictícios</span></div>
+      <div className="shell footer-bottom"><span>© 2026 Lume · Protótipo para o Brasil</span><span>Dados, perfis e avaliações fictícios</span></div>
     </footer>
   );
 }

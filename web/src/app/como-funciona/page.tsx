@@ -16,8 +16,8 @@ const customerSteps = [
 
 const providerSteps = [
   ["01", "Dê forma ao serviço", "Uma oferta clara reúne escopo, modalidade e informação prática."],
-  ["02", "Construa presença", "O perfil ajuda a enquadrar competências e área de atuação."],
-  ["03", "Prepare o próximo passo", "Publicação e contacto serão introduzidos apenas quando estiverem disponíveis."],
+  ["02", "Construa presença", "O perfil ajuda a apresentar competências e área de atuação."],
+  ["03", "Prepare o próximo passo", "Publicação e contato serão lançados apenas quando estiverem disponíveis."],
 ] as const;
 
 export default function HowItWorksPage() {
@@ -32,7 +32,7 @@ export default function HowItWorksPage() {
       </section>
 
       <section className="how-editorial shell" aria-label="Uma forma mais clara de descobrir serviços">
-        <div className="how-editorial-image"><Image alt="Pessoa a trabalhar numa mesa com computador e materiais de projeto" fill priority sizes="(max-width: 900px) 100vw, 52vw" src="/images/web-design.jpg" /></div>
+        <div className="how-editorial-image"><Image alt="Pessoa trabalhando em uma mesa com computador e materiais de projeto" fill priority sizes="(max-width: 900px) 100vw, 52vw" src="/images/web-design.jpg" /></div>
         <blockquote>“Antes de escolher, é útil poder ver a proposta inteira.”</blockquote>
         <p>Por isso, cada oferta reúne o essencial numa só leitura: quem presta, o que propõe, onde atua e em que condições iniciais.</p>
       </section>
@@ -53,7 +53,7 @@ export default function HowItWorksPage() {
         </div>
       </section>
 
-      <section className="institutional-note shell"><UserRound aria-hidden="true" size={20} /><p><strong>Uma experiência em evolução.</strong> Exploração de ofertas e consulta de perfis estão disponíveis nesta demonstração. Publicação, contactos e propostas ainda não fazem parte do produto.</p><Link className="button button-primary" href="/ofertas">Explorar ofertas <ArrowRight aria-hidden="true" size={17} /></Link></section>
+      <section className="institutional-note shell"><UserRound aria-hidden="true" size={20} /><p><strong>Uma experiência em evolução.</strong> Exploração de ofertas e consulta de perfis estão disponíveis nesta demonstração. Publicação, contatos e propostas ainda não fazem parte do produto.</p><Link className="button button-primary" href="/ofertas">Explorar ofertas <ArrowRight aria-hidden="true" size={17} /></Link></section>
     </main>
   );
 }

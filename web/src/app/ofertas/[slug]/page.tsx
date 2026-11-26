@@ -48,8 +48,8 @@ export default async function OfferDetailPage({ params }: OfferPageProps) {
           <span className="detail-label">Valor indicativo</span><strong className="detail-price">{offer.price}</strong>
           <div className="detail-facts"><div><MapPin aria-hidden="true" size={18} /><span><small>Área aproximada</small><strong>{offer.location}</strong></span></div><div><Clock3 aria-hidden="true" size={18} /><span><small>Disponibilidade</small><strong>{offer.availability}</strong></span></div></div>
           <Link className="button button-primary button-wide" href={`/prestadores/${provider.slug}`}>Conhecer {provider.name.split(" ")[0]} <ArrowRight aria-hidden="true" size={17} /></Link>
-          <button aria-disabled="true" className="button button-secondary button-wide" disabled type="button">Contacto indisponível na demonstração</button>
-          <p className="sidebar-note">Não existem contactos, propostas ou contratação nesta demonstração.</p>
+          <button aria-disabled="true" className="button button-secondary button-wide" disabled type="button">Contato indisponível na demonstração</button>
+          <p className="sidebar-note">Não há contatos, propostas ou contratação nesta demonstração.</p>
           <div className="sidebar-provider"><span className="provider-avatar provider-avatar-large">{provider.initials}</span><div><strong>{provider.name}</strong><span>{provider.role}</span><span className="rating"><Star aria-hidden="true" fill="currentColor" size={13} /> {provider.rating.toFixed(1)} · {provider.reviews} avaliações demonstrativas</span></div></div>
         </aside>
       </div>

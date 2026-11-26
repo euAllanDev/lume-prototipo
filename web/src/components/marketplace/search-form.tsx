@@ -21,7 +21,7 @@ export function SearchForm({ defaultValue = "", compact = false }: { defaultValu
         defaultValue={defaultValue}
         id={compact ? "catalog-search" : "hero-search"}
         name="q"
-        placeholder="De que serviço precisa?"
+        placeholder="De qual serviço você precisa?"
         type="search"
       />
       <button className="button button-primary" type="submit">Pesquisar</button>

@@ -6,7 +6,7 @@ import { offers } from "@/data/marketplace";
 
 export const metadata: Metadata = {
   title: "Explorar serviços",
-  description: "Explore ofertas demonstrativas de serviços independentes em Portugal.",
+  description: "Explore ofertas demonstrativas de serviços independentes no Brasil.",
 };
 
 export default function OffersPage() {
@@ -17,7 +17,7 @@ export default function OffersPage() {
         <h1>Encontre trabalho<br /><em>bem feito.</em></h1>
         <p>Ofertas demonstrativas, apresentadas com contexto para comparar sem ruído.</p>
       </header>
-      <Suspense fallback={<div className="catalog-loading" aria-label="A carregar ofertas"><span /><span /><span /></div>}>
+      <Suspense fallback={<div className="catalog-loading" aria-label="Carregando ofertas"><span /><span /><span /></div>}>
         <CatalogContent />
       </Suspense>
     </main>

@@ -1,3 +1,4 @@
+import { toLocaleLower } from "@/lib/locale";
 import { categories, type OfferAvailability, type ServiceMode, type ServiceOffer } from "@/data/marketplace";
 
 export type OfferSort = "relevance" | "price-asc" | "price-desc" | "recent";
@@ -50,13 +51,13 @@ export function searchParamsFromFilters(filters: OfferFilters) {
 }
 
 export function filterOffers(offers: readonly ServiceOffer[], filters: OfferFilters) {
-  const query = filters.q.toLocaleLowerCase("pt-PT");
-  const location = filters.location.toLocaleLowerCase("pt-PT");
+  const query = toLocaleLower(filters.q);
+  const location = toLocaleLower(filters.location);
   const min = filters.minPrice ? Number(filters.minPrice) : undefined;
   const max = filters.maxPrice ? Number(filters.maxPrice) : undefined;
   return offers.filter((offer) => {
-    const haystack = [offer.title, offer.summary, offer.subcategory, offer.location, categories.find((item) => item.slug === offer.category)?.name ?? ""].join(" ").toLocaleLowerCase("pt-PT");
-    return (!query || haystack.includes(query)) && (!filters.category || offer.category === filters.category) && (!filters.subcategory || offer.subcategory === filters.subcategory) && (!filters.mode || offer.mode === filters.mode) && (!location || offer.location.toLocaleLowerCase("pt-PT").includes(location)) && (min === undefined || offer.priceFrom >= min) && (max === undefined || offer.priceFrom <= max) && (!filters.availability || offer.availabilityStatus === filters.availability);
+    const haystack = toLocaleLower([offer.title, offer.summary, offer.subcategory, offer.location, categories.find((item) => item.slug === offer.category)?.name ?? ""].join(" "));
+    return (!query || haystack.includes(query)) && (!filters.category || offer.category === filters.category) && (!filters.subcategory || offer.subcategory === filters.subcategory) && (!filters.mode || offer.mode === filters.mode) && (!location || toLocaleLower(offer.location).includes(location)) && (min === undefined || offer.priceFrom >= min) && (max === undefined || offer.priceFrom <= max) && (!filters.availability || offer.availabilityStatus === filters.availability);
   }).toSorted((a, b) => {
     if (filters.sort === "price-asc") return a.priceFrom - b.priceFrom;
     if (filters.sort === "price-desc") return b.priceFrom - a.priceFrom;

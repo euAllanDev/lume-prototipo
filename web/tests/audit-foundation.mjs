@@ -89,8 +89,8 @@ await cdp("Page.navigate", { url: appUrl });
 await waitFor(`document.readyState === "complete" && Boolean(document.querySelector("main#main"))`);
 
 expect(
-  await evaluate(`document.documentElement.lang === "pt-PT"`),
-  "documento usa PT-PT",
+  await evaluate(`document.documentElement.lang === "pt-BR"`),
+  "documento usa PT-BR",
 );
 expect(
   await evaluate(`document.title.includes("Lume") && document.querySelector('meta[name="description"]')?.content.includes("Lume")`),

@@ -76,7 +76,7 @@ expect(await evaluate(`document.querySelector("form")?.noValidate && Boolean(doc
 
 await load("/redefinir-senha");
 await wait(800);
-expect(await evaluate(`document.querySelectorAll('.auth-requirements li').length === 3`), "redefinição expõe requisitos de palavra-passe");
+expect(await evaluate(`document.querySelectorAll('.auth-requirements li').length === 3`), "redefinição expõe requisitos de senha");
 
 await load("/verificar-email");
 await wait(800);

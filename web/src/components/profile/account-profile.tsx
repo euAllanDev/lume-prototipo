@@ -24,8 +24,8 @@ const capabilityLabels: Record<LumeCapability, string> = {
 };
 
 export function accountErrorMessage(status: number): string {
-  if (status === 401) return "A sua sessão terminou. Inicie sessão novamente para continuar.";
-  if (status === 400) return "Revise os campos assinalados e tente novamente.";
+  if (status === 401) return "Sua sessão expirou. Entre novamente para continuar.";
+  if (status === 400) return "Revise os campos destacados e tente novamente.";
   return "Não foi possível concluir a operação. Tente novamente.";
 }
 
@@ -121,7 +121,7 @@ export function AccountProfile() {
   }
 
   if (loading) {
-    return <div aria-busy="true" aria-live="polite" className="account-state"><LoaderCircle aria-hidden="true" className="auth-spinner" /> A carregar a sua conta...</div>;
+    return <div aria-busy="true" aria-live="polite" className="account-state"><LoaderCircle aria-hidden="true" className="auth-spinner" /> Carregando sua conta...</div>;
   }
 
   if (!data) {
@@ -135,11 +135,11 @@ export function AccountProfile() {
   return (
     <div className="account-grid">
       <section className="account-panel account-profile-panel">
-        <div className="account-panel-heading"><span><UserRound aria-hidden="true" /></span><div><p className="eyebrow">Apresentação</p><h2>O seu perfil Lume</h2></div></div>
+        <div className="account-panel-heading"><span><UserRound aria-hidden="true" /></span><div><p className="eyebrow">Apresentação</p><h2>Seu perfil Lume</h2></div></div>
         <form action={saveProfile} className="account-form">
           <Input defaultValue={data.profile.displayName} label="Nome de apresentação" maxLength={120} name="displayName" required />
           <Textarea defaultValue={data.profile.bio ?? ""} hint="Opcional. Até 1000 caracteres." label="Apresentação pessoal" maxLength={1000} name="bio" rows={7} />
-          <Button disabled={saving} type="submit">{saving ? "A guardar..." : "Guardar alterações"}</Button>
+          <Button disabled={saving} type="submit">{saving ? "Salvando..." : "Salvar alterações"}</Button>
         </form>
       </section>
 
@@ -147,13 +147,13 @@ export function AccountProfile() {
         <section className="account-panel">
           <p className="eyebrow">Conta</p><h2>Informação básica</h2>
           <dl className="account-facts"><div><dt>E-mail</dt><dd>{data.account.email}</dd></div><div><dt>Estado</dt><dd>{data.account.emailVerified ? "E-mail verificado" : "Verificação pendente"}</dd></div></dl>
-          <p className="account-help">O e-mail é gerido pela autenticação e não faz parte do perfil público.</p>
+          <p className="account-help">O e-mail é gerenciado pela autenticação e não faz parte do perfil público.</p>
         </section>
         <section className="account-panel account-capabilities">
-          <p className="eyebrow">Capacidades</p><h2>Como utiliza o Lume</h2>
+          <p className="eyebrow">Capacidades</p><h2>Como você usa o Lume</h2>
           <div className="capability-list">{data.profile.capabilities.map((capability) => <Badge key={capability} tone="success"><Check aria-hidden="true" size={13} /> {capabilityLabels[capability]}</Badge>)}</div>
-          {missingCapability ? <><p>Pode também atuar como {capabilityLabels[missingCapability].toLowerCase()} nesta mesma conta.</p><Button disabled={activating} onClick={() => void activate(missingCapability)} type="button" variant="secondary">{activating ? "A ativar..." : `Ativar ${capabilityLabels[missingCapability].toLowerCase()}`}</Button></> : <p>As duas capacidades comerciais estão ativas.</p>}
-          <small>Ativação é permanente neste momento. Nenhuma permissão administrativa é concedida.</small>
+          {missingCapability ? <><p>Você também pode atuar como {capabilityLabels[missingCapability].toLowerCase()} nesta mesma conta.</p><Button disabled={activating} onClick={() => void activate(missingCapability)} type="button" variant="secondary">{activating ? "Ativando..." : `Ativar ${capabilityLabels[missingCapability].toLowerCase()}`}</Button></> : <p>As duas capacidades comerciais estão ativas.</p>}
+          <small>Por enquanto, a ativação é permanente. Nenhuma permissão administrativa é concedida.</small>
         </section>
       </aside>
       <div aria-live="polite" className="account-feedback">{error && <p className="account-error" role="alert">{error}</p>}{notice && <p className="account-success">{notice}</p>}</div>

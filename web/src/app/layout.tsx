@@ -4,6 +4,8 @@ import { AppChrome } from "@/components/layout/app-chrome";
 import { SkipLink } from "@/components/layout/skip-link";
 import { MotionProvider } from "@/components/ui/motion-provider";
 
+import { appLocale } from "@/lib/locale";
+
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -12,7 +14,7 @@ export const metadata: Metadata = {
     template: "%s | Lume",
   },
   description:
-    "Lume, um marketplace demonstrativo de serviços independentes pensado para Portugal.",
+    "Lume, um marketplace demonstrativo de serviços independentes pensado para o Brasil.",
 };
 
 export const viewport: Viewport = {
@@ -21,7 +23,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="pt-PT">
+    <html lang={appLocale.language}>
       <body>
         <SkipLink />
         <MotionProvider>

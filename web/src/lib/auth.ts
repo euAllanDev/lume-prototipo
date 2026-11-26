@@ -45,14 +45,14 @@ export const auth = betterAuth({
     requireEmailVerification: authConfiguration.requireEmailVerification,
     revokeSessionsOnPasswordReset: authConfiguration.revokeSessionsOnPasswordReset,
     sendResetPassword: async ({ user, url }) => sendAuthEmail({
-      to: user.email, url, kind: "reset", subject: "Redefina a palavra-passe da sua conta Lume",
+      to: user.email, url, kind: "reset", subject: "Redefina a senha da sua conta Lume",
     }),
   },
   emailVerification: {
     sendOnSignUp: true,
     expiresIn: authConfiguration.verificationExpiresIn,
     sendVerificationEmail: async ({ user, url }) => sendAuthEmail({
-      to: user.email, url, kind: "verify", subject: "Confirme o seu e-mail no Lume",
+      to: user.email, url, kind: "verify", subject: "Confirme seu e-mail no Lume",
     }),
   },
   session: {

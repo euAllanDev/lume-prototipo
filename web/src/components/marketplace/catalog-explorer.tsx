@@ -49,7 +49,7 @@ export function CatalogExplorer({ offers }: { offers: readonly ServiceOffer[] })
       </label>
       <fieldset><legend>Modalidade</legend><span className="modality-options">{(["", "Presencial", "Remoto", "Híbrido"] as const).map((item) => <button aria-pressed={filters.mode === item} className={filters.mode === item ? "filter-option active" : "filter-option"} key={item || "all"} onClick={() => update({ mode: item })} type="button">{item || "Todas"}</button>)}</span></fieldset>
       <label>Localização
-        <input onChange={(event) => update({ location: event.target.value })} placeholder="Ex.: Lisboa" type="search" value={filters.location} />
+        <input onChange={(event) => update({ location: event.target.value })} placeholder="Ex.: São Paulo" type="search" value={filters.location} />
       </label>
       <fieldset><legend>Preço indicativo</legend><span className="price-range"><input aria-label="Preço mínimo" inputMode="numeric" min="0" onChange={(event) => update({ minPrice: event.target.value })} placeholder="Mínimo" type="number" value={filters.minPrice} /><input aria-label="Preço máximo" inputMode="numeric" min="0" onChange={(event) => update({ maxPrice: event.target.value })} placeholder="Máximo" type="number" value={filters.maxPrice} /></span></fieldset>
       <label>Disponibilidade
@@ -67,7 +67,7 @@ export function CatalogExplorer({ offers }: { offers: readonly ServiceOffer[] })
       <section aria-busy={filters.q !== deferredQuery} aria-live="polite" className="catalog-results">
         <div className="results-toolbar"><p><strong>{results.length}</strong> {results.length === 1 ? "oferta encontrada" : "ofertas encontradas"}</p><label>Ordenar por<select onChange={(event) => update({ sort: event.target.value as OfferFilters["sort"] })} value={filters.sort}>{Object.entries(sortLabels).map(([value, label]) => <option key={value} value={value}>{label}</option>)}</select></label></div>
         {activeFilters.length > 0 && <div className="active-filter-list" aria-label="Filtros ativos">{activeFilters.map(([key, value]) => <button key={key} onClick={() => removeFilter(key)} type="button">{key === "availability" ? availabilityLabels[value as keyof typeof availabilityLabels] : key === "category" ? categories.find((item) => item.slug === value)?.name : value}<X aria-hidden="true" size={13} /></button>)}<button className="active-filter-clear" onClick={clearAll} type="button">Limpar tudo</button></div>}
-        {results.length ? <OfferGrid eagerCount={2} offers={results} /> : <div className="empty-state"><span><Search aria-hidden="true" size={28} /></span><h2>Não encontrámos ofertas com estes critérios.</h2><p>Altere a pesquisa ou remova filtros para voltar a explorar.</p><button className="button button-primary" onClick={clearAll} type="button">Limpar filtros</button></div>}
+        {results.length ? <OfferGrid eagerCount={2} offers={results} /> : <div className="empty-state"><span><Search aria-hidden="true" size={28} /></span><h2>Não encontramos ofertas com esses critérios.</h2><p>Altere a pesquisa ou remova filtros para voltar a explorar.</p><button className="button button-primary" onClick={clearAll} type="button">Limpar filtros</button></div>}
       </section>
     </div>
   );

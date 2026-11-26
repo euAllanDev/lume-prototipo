@@ -39,12 +39,12 @@ export default function Home() {
             <p className="eyebrow">Serviços escolhidos com intenção</p>
             <h1 id="hero-title">A pessoa certa muda <em>tudo.</em></h1>
             <p className="hero-intro">
-              Descubra profissionais independentes, compare com clareza e comece uma conversa, em todo Portugal.
+              Descubra profissionais independentes, compare com clareza e comece uma conversa, em todo o Brasil.
             </p>
             <SearchForm />
             <div className="hero-actions">
               <Link className="button button-dark" href="/ofertas">Explorar ofertas <ArrowRight aria-hidden="true" size={17} /></Link>
-              <Link className="text-link" href="/como-funciona">Perceber como funciona</Link>
+              <Link className="text-link" href="/como-funciona">Entender como funciona</Link>
             </div>
           </div>
 
@@ -74,7 +74,7 @@ export default function Home() {
 
         <section className="category-section shell" id="foundation" aria-labelledby="categories-title">
           <div className="section-heading">
-            <div><p className="eyebrow">Começar por aqui</p><h2 id="categories-title">De que precisa hoje?</h2></div>
+            <div><p className="eyebrow">Começar por aqui</p><h2 id="categories-title">Do que você precisa hoje?</h2></div>
             <p>Explore áreas práticas e criativas, com informação suficiente para escolher melhor.</p>
           </div>
           <div className="category-grid">
@@ -123,24 +123,24 @@ export default function Home() {
             <p>Explore serviços, compare abordagens e consulte cada perfil antes de decidir o próximo passo.</p>
             <Link className="text-link" href="/para-clientes">Conhecer a experiência de cliente <ArrowRight aria-hidden="true" size={17} /></Link>
           </div>
-          <div className="customer-callout-art"><Image alt="Profissional a prestar apoio junto a um computador portátil" loading="lazy" sizes="(max-width: 900px) 100vw, 45vw" src="/images/tech-support.jpg" {...getImageDimensions("/images/tech-support.jpg")} /></div>
+          <div className="customer-callout-art"><Image alt="Profissional dando suporte ao lado de um notebook" loading="lazy" sizes="(max-width: 900px) 100vw, 45vw" src="/images/tech-support.jpg" {...getImageDimensions("/images/tech-support.jpg")} /></div>
         </section>
 
         <section className="provider-callout shell">
           <div className="provider-callout-art">
-            <Image alt="Profissional independente a preparar trabalho digital" loading="lazy" sizes="(max-width: 800px) 100vw, 50vw" src="/images/web-design.jpg" {...getImageDimensions("/images/web-design.jpg")} />
+            <Image alt="Profissional independente preparando um trabalho digital" loading="lazy" sizes="(max-width: 800px) 100vw, 50vw" src="/images/web-design.jpg" {...getImageDimensions("/images/web-design.jpg")} />
           </div>
           <div className="provider-callout-copy">
             <p className="eyebrow">Para quem sabe fazer</p>
-            <h2>O seu talento merece ser <em>bem apresentado.</em></h2>
-            <p>Crie uma oferta clara, mostre a sua abordagem e seja encontrado por quem valoriza o seu trabalho.</p>
+            <h2>Seu talento merece ser <em>bem apresentado.</em></h2>
+            <p>Crie uma oferta clara, mostre sua abordagem e seja encontrado por quem valoriza seu trabalho.</p>
             <ul><li><Check aria-hidden="true" size={16} /> Um perfil para os dois lados do marketplace</li><li><Check aria-hidden="true" size={16} /> Informação prática antes da primeira conversa</li></ul>
             <Link className="button button-light" href="/para-prestadores">Conhecer o caminho para prestadores <ArrowRight aria-hidden="true" size={17} /></Link>
           </div>
         </section>
 
         <section className="final-cta shell">
-          <div><p className="eyebrow">Comece por uma necessidade</p><h2>Há uma boa solução<br />à espera de ser encontrada.</h2></div>
+          <div><p className="eyebrow">Comece por uma necessidade</p><h2>Há uma boa solução<br />esperando para ser encontrada.</h2></div>
           <Link className="button button-primary button-large" href="/ofertas">Explorar serviços <ArrowRight aria-hidden="true" size={19} /></Link>
           <span className="cta-orb" aria-hidden="true" />
         </section>

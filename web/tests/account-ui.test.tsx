@@ -13,7 +13,7 @@ import {
 test("account interface exposes an accessible loading state", () => {
   const html = renderToStaticMarkup(<AccountProfile />);
   assert.match(html, /aria-busy="true"/);
-  assert.match(html, /A carregar a sua conta/);
+  assert.match(html, /Carregando sua conta/);
 });
 
 test("capability response updates interface state without replacing account identity", () => {
@@ -28,6 +28,6 @@ test("capability response updates interface state without replacing account iden
 });
 
 test("account interface distinguishes expired sessions and recoverable errors", () => {
-  assert.match(accountErrorMessage(401), /sessão terminou/);
+  assert.match(accountErrorMessage(401), /sessão expirou/);
   assert.match(accountErrorMessage(500), /Tente novamente/);
 });

@@ -16,7 +16,7 @@ export function SkipLink() {
 
   return (
     <a className="skip-link" href="#main" onClick={focusMain}>
-      Saltar para o conteúdo
+      Pular para o conteúdo
     </a>
   );
 }
