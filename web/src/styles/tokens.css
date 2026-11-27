@@ -36,7 +36,7 @@
 
   /* ── 2. Tokens Semânticos ────────────────────────────────── */
   /* Backgrounds */
-  --bg-primary: #F4F3F7;
+  --bg-primary: #FBFAF7;
   --bg-secondary: var(--navy-50);
   --bg-inverse: var(--navy-800);
   --canvas: var(--bg-primary);
@@ -184,8 +184,9 @@
   --transition-slow: var(--duration-media) var(--ease-out);
 
   /* ── 6. Tipografia ───────────────────────────────────────── */
-  --display: Iowan Old Style, Baskerville, Georgia, ui-serif, serif;
-  --sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --display: var(--font-instrument), "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  --sans: var(--font-instrument), "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  --mono: var(--font-dm-mono), "DM Mono", ui-monospace, Menlo, Consolas, monospace;
   --text-label: .8125rem;
   --text-small: .875rem;
   --text-body: 1rem;
@@ -193,7 +194,7 @@
   --text-heading: clamp(1.5rem, 2vw, 2rem);
   --text-section: clamp(2.25rem, 4vw, 4rem);
   --text-display: clamp(3rem, 6vw, 6rem);
-  --weight-display: 400;
+  --weight-display: 500;
   --weight-body: 400;
   --weight-label: 600;
   --weight-strong: 700;
@@ -201,7 +202,7 @@
   --leading-heading: 1.15;
   --leading-body: 1.6;
   --leading-label: 1.4;
-  --tracking-display: -.035em;
+  --tracking-display: -.03em;
   --tracking-label: .04em;
 }
 

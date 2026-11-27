@@ -148,3 +148,10 @@
   .hero__proof { display: none; }
   #confianca .panel { --p-h: 132px; }
 }
+
+/* laptops and tablets (640–1279px): the hero window drops its sidebar so the proposal rows keep one line */
+@media (min-width: 640px) and (max-width: 1279px) {
+  .ly-piece--main .d-win__body { grid-template-columns: minmax(0, 1fr); }
+  .ly-piece--main .d-side { display: none; }
+}
+.ly-piece--main .d-row small { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

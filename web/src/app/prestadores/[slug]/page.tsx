@@ -5,7 +5,7 @@ import { notFound } from "next/navigation";
 
 import { OfferGrid } from "@/components/marketplace/offer-grid";
 import { getProvider, offers } from "@/data/marketplace";
-import { getPublicProviderProfileBySlug } from "@/lib/profiles/public-server";
+import { findPublicProviderProfileBySlug } from "@/lib/profiles/public-server";
 
 export const instant = false;
 
@@ -13,7 +13,7 @@ type ProviderPageProps = { params: Promise<{ slug: string }> };
 
 export async function generateMetadata({ params }: ProviderPageProps): Promise<Metadata> {
   const slug = (await params).slug;
-  const provider = await getPublicProviderProfileBySlug(slug);
+  const provider = await findPublicProviderProfileBySlug(slug);
   if (provider) return { title: provider.displayName, description: provider.bio ?? `Perfil de ${provider.displayName} no Lume.` };
   const demoProvider = getProvider(slug);
   return demoProvider ? { title: demoProvider.name, description: demoProvider.bio } : {};
@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: ProviderPageProps): Promise<M
 
 export default async function ProviderPage({ params }: ProviderPageProps) {
   const slug = (await params).slug;
-  const provider = await getPublicProviderProfileBySlug(slug);
+  const provider = await findPublicProviderProfileBySlug(slug);
   if (!provider) {
     const demoProvider = getProvider(slug);
     if (!demoProvider) notFound();
