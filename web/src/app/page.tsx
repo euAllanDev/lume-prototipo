@@ -47,7 +47,7 @@ export default function HomePage() {
       <script dangerouslySetInnerHTML={{ __html: enterScript }} />
       <header className="nav">
         <div className="wrap nav__bar">
-          <a className="nav__logo" href="/" aria-label="Lume, início"><img src="/images/brand/logo-lume.png" alt="Lume" width="80" height="26" /></a>
+          <a className="nav__logo" href="/" aria-label="Lume, início"><img src="/images/brand/lume-logo.svg" alt="Lume" width="92" height="26" /></a>
           <nav className="nav__links site-nav" aria-label="Principal">
             <div className="nav__item">
               <a className="nav__link" href="/como-funciona">Como funciona <svg className="chev" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 4.5l3 3 3-3" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" /></svg></a>
@@ -340,7 +340,7 @@ export default function HomePage() {
           <div className="closing__links">
             <div className="grid">
               <div className="span-4 stack-4">
-                <a className="nav__logo" href="/" aria-label="Lume, início"><img src="/images/brand/logo-lume-white.png" alt="Lume" width="93" height="30" /></a>
+                <a className="nav__logo" href="/" aria-label="Lume, início"><img src="/images/brand/lume-logo-white.svg" alt="Lume" width="106" height="30" /></a>
                 <p className="footer__lede">Marketplace de serviços presenciais e remotos, feito no Brasil.</p>
               </div>
               <div className="span-2 footer__col"><h3>Contratar</h3><ul><li><a href="/para-clientes">Para clientes</a></li><li><a href="/ofertas">Serviços</a></li></ul></div>
