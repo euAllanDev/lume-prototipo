@@ -23,7 +23,15 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang={appLocale.language}>
+    <html
+      lang={appLocale.language}
+      data-type="software"
+      data-radius="soft"
+      data-ground="sand"
+      data-buttons="arrow"
+      data-motion=""
+      suppressHydrationWarning
+    >
       <body>
         <SkipLink />
         <MotionProvider>

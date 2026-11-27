@@ -18,7 +18,8 @@ const authRoutes = new Set([
 export function AppChrome({ children }: { children: ReactNode }) {
   const pathname = usePathname();
 
-  if (authRoutes.has(pathname)) return children;
+  // A home tem menu e rodapé próprios (src/app/page.tsx).
+  if (pathname === "/" || authRoutes.has(pathname)) return children;
 
   return <><SimulationBanner /><SiteHeader />{children}<SiteFooter /></>;
 }

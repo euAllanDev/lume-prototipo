@@ -52,12 +52,15 @@ for (const [width, height] of viewports) {
     await evaluate(`location.href = ${JSON.stringify(`${origin}${route}`)}`);
     await new Promise((resolve) => setTimeout(resolve, 1400));
     if (route === "/" && width <= 700) {
+      // A home usa o menu do kit visual (public/taste): o botão .nav__toggle abre a folha do menu.
       const menuWorks = await evaluate(`(() => {
-        const menu = document.querySelector(".mobile-menu");
-        menu.open = true;
-        const visible = getComputedStyle(menu.querySelector("nav")).display !== "none";
-        menu.open = false;
-        return visible;
+        const nav = document.querySelector("header.nav");
+        const toggle = nav?.querySelector(".nav__toggle");
+        if (!toggle) return false;
+        toggle.click();
+        const opened = nav.classList.contains("is-open") && toggle.getAttribute("aria-expanded") === "true";
+        toggle.click();
+        return opened && !nav.classList.contains("is-open");
       })()`);
       if (!menuWorks) throw new Error(`${width}x${height} ${route}: menu móvel não abre.`);
     }
@@ -75,6 +78,8 @@ for (const [width, height] of viewports) {
         .filter((element) => {
           if (!visible(element)) return false;
           if (element.closest(".customer-callout, .audience-hero, .provider-intro")) return false;
+          // Na home, a janela do app sai do painel do hero de propósito e é cortada por ele.
+          if (element.closest(".hero__art, .app")) return false;
           const rect = element.getBoundingClientRect();
           return rect.width <= innerWidth + 1 && (rect.right > innerWidth + 1 || rect.left < -1);
         })

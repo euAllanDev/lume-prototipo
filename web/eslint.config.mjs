@@ -9,6 +9,8 @@ const eslintConfig = defineConfig([
   globalIgnores([
     // Installed development references are third-party tools, not React app code.
     ".agents/skills/**",
+    // Vendored visual kit (taste-skill, MIT) served as static files to the home page.
+    "public/taste/**",
     // Default ignores of eslint-config-next:
     ".next/**",
     "out/**",
